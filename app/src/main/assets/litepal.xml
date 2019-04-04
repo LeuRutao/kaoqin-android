@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="kaoqin" />
+    <version value="2" />
+    <list>
+        <mapping class="com.example.kaoqin.Data.User"/>
+        <mapping class="com.example.kaoqin.Data.Record"/>
+    </list>
+</litepal>
